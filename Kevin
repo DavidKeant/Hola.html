@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Hola</title>
+ <meta charset="UTF-8" />
+ <title>Ejemplo color azul</title>
+ <style>
+  .azul {
+   color: blue;
+  }
+ </style>
 </head>
 <body>
-  <h1>Hola</h1>
+ <p class="azul">hola mundo</p>
 </body>
 </html>
